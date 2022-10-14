@@ -11,4 +11,4 @@ KIT
 4. You want to provide only interface of library not implementation.
 
 ## Structure
-[!Structure of Abstract Design Pattern]('./Abstract Design Pattern.png')
+![Structure of Abstract Design Pattern]('./Abstract Design Pattern.png')
