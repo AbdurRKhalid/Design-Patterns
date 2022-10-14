@@ -9,3 +9,6 @@ KIT
 2. A System should be configurable with one or multiple families of products.
 3. A Family of related products objects is designed to be used together.
 4. You want to provide only interface of library not implementation.
+
+## Structure
+[!Structure of Abstract Design Pattern]('./Abstract Design Pattern.png')
