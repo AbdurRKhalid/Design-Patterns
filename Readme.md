@@ -11,3 +11,8 @@ Using a Desing Pattern can help to build effective software with usability incre
 ## What is Design Pattern?
 Description of occurrance of a single problem again and again causing to design similar solution again gave rise to construction of design pattern.
 
+## Components of Design Pattern
+1. Name: The name of the Design Pattern includes the problem and it's solution.
+2. Problem: What kind of problem the specific design pattern will solve.
+3. Solution: What is the solution of specific problem.
+4. Consequences: What will be the consequences in terms of space and time complexity etc.
