@@ -1,5 +1,7 @@
 package Product;
 
+import Components.Engine;
+
 public class Manual {
     private final CarType carType;
     private final int seats;
