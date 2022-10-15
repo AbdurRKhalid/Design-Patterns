@@ -1,5 +1,7 @@
 package Components;
 
+import Product.Car;
+
 public class TripComputer {
     private Car car;
 

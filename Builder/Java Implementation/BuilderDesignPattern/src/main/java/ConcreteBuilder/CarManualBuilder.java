@@ -1,10 +1,14 @@
 package ConcreteBuilder;
 
-public class CarManualBuilder {
+import Builder.Builder;
+import Components.*;
+import Product.Manual;
+
+public class CarManualBuilder implements Builder {
     private CarType type;
     private int seats;
     private Engine engine;
-    private Transmiossion transmiossion;
+    private Transmission transmiossion;
     private TripComputer tripComputer;
     private GPSNavigator gpsNavigator;
 

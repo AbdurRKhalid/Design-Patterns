@@ -1,5 +1,7 @@
 package Product;
 
+import Components.*;
+
 public class Car {
     private final CarType carType;
     private final int seats;
@@ -14,6 +16,7 @@ public class Car {
         this.seats = seats;
         this.engine = engine;
         this.transmission = transmission;
+        this.tripComputer = tripComputer;
         if(this.tripComputer != null) {
             this.tripComputer.setCar(this);
         }

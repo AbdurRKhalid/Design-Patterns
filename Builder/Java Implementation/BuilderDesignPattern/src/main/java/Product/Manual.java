@@ -1,6 +1,6 @@
 package Product;
 
-import Components.Engine;
+import Components.*;
 
 public class Manual {
     private final CarType carType;
