@@ -37,4 +37,8 @@ public class CarManualBuilder {
     public void setGPSNavigator(GPSNavigator gpsNavigator) {
         this.gpsNavigator = gpsNavigator;
     }
+
+    public Manual getResult() {
+        return new Manual(type, seats, engine, transmiossion, tripComputer, gpsNavigator);
+    }
 }
