@@ -1,6 +1,7 @@
 package ConcreteBuilder;
 
 import Builder.Builder;
+import Product.Car;
 
 public class CarBuilder implements Builder {
     private CarType type;
