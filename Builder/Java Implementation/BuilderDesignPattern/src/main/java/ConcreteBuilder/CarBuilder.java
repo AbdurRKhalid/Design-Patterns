@@ -17,26 +17,26 @@ public class CarBuilder implements Builder {
 
     @Override
     public void setSeats(int seat) {
-
+        this.seats = seat;
     }
 
     @Override
     public void setEngine(Engine engine) {
-
+        this.engine = engine;
     }
 
     @Override
     public void setTransmission(Transmission transmission) {
-
+        this.transmiossion = transmiossion;
     }
 
     @Override
     public void setTripComputer(TripComputer tripComputer) {
-
+        this.tripComputer = tripComputer;
     }
 
     @Override
-    public void setGPSNavigator(GPSNavigatior gpsNavigator) {
-
+    public void setGPSNavigator(GPSNavigator gpsNavigator) {
+        this.gpsNavigator = gpsNavigator;
     }
 }

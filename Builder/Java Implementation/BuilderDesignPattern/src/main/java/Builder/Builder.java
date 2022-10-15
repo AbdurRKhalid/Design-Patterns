@@ -6,5 +6,5 @@ public interface Builder {
     void setEngine(Engine engine);
     void setTransmission(Transmission transmission);
     void setTripComputer(TripComputer tripComputer);
-    void setGPSNavigator(GPSNavigatior gpsNavigator);
+    void setGPSNavigator(GPSNavigator gpsNavigator);
 }
