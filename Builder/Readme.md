@@ -12,3 +12,8 @@ In RICH TEXT Formatter, there should be a possibility to save file in many forma
 
 ## Structure
 ![BuilderDesignPatternStructure](Builder%20Design%20Pattern%20Structure.png)
+
+## Consequences
+* Can help to vary product internal representation -> The internal representation of product is hiddern by the Builder Interface.
+* Isolation of code for *Representation* and *Construction*.
+* Control over construction Process.
