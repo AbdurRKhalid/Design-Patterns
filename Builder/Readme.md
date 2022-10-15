@@ -9,3 +9,6 @@ In RICH TEXT Formatter, there should be a possibility to save file in many forma
 ## Applicability
 1. Creation of the object is independent of parts that makes the object.
 2. When there is a need to create different object representation with same process.
+
+## Structure
+![BuilderDesignPatternStructure](Builder%20Design%20Pattern%20Structure.png)
