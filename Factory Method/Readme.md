@@ -14,3 +14,6 @@ Let's say we have two classes 'Application' and 'Document'. The client has imple
 Factory Method Design Pattern can be used when:
 1. A Class cannot anticipate the class of object it must create.
 2. A Class wants its subclass to specify the objects it creates.
+
+## Structure
+![FactoryMethodStructure](Factory%20Method%20Design%20Pattern.png)
