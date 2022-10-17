@@ -15,3 +15,10 @@ Use the Prototype Pattern when a system should be independent of how objects are
 * Avoid building a class hierarchy of factories that parallels class hierarchy of products.
 * Instances of a class can have one of only a few different combinations.
 
+## Consequences
+1. Reduction in subclasses.
+2. Addition and Deletion of products at the run time.
+3. Specifying new objects by varying values.
+4. Specifying new objects by varying structure.
+5. Configuring an application with classes Dynamically.
+
