@@ -15,6 +15,9 @@ Use the Prototype Pattern when a system should be independent of how objects are
 * Avoid building a class hierarchy of factories that parallels class hierarchy of products.
 * Instances of a class can have one of only a few different combinations.
 
+## Structure
+![PrototypeDesignPatternStructure](Prototype%20Design%20Pattern.png)
+
 ## Consequences
 1. Reduction in subclasses.
 2. Addition and Deletion of products at the run time.
