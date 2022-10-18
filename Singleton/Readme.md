@@ -10,6 +10,7 @@ Use the Singleton Design Pattern when:
 * When sole instance should be extensible by subclassing and client should be able to use it without any further modification.
 
 ## Structure
+![SingletonDesignPattern](Singleton%20Design%20Pattern.png)
 
 ## Consequences
 1. Controlled access to sole instance.
