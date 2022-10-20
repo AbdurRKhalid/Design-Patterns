@@ -21,7 +21,7 @@ Use the Adapter Design Pattern when
     * Object Adapt interface of it's parent.
 
 ## Structure
-
+![AdapterDesignPatternStructure](Adapter%20Design%20Pattern.png)
 ## Consequences
 1. How much Adaptation is Required.
 2. Pluggable Adapters -> A class is more usable when less classes use it.
