@@ -20,5 +20,5 @@ Description of occurrance of a single problem again and again causing to design 
 | Creational | Structural | Behavioural |
 |------------|------------|-------------|
 |[Abstract Factory](./Creational/Abstract%20Factory/Readme.md)            |            |             |
-|            |            |             |
+|[Factory Method](./Creational/Factory%20Method/Readme.md)            |            |             |
 |            |            |             |
