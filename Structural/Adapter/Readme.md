@@ -23,3 +23,6 @@ Use the Adapter Design Pattern when
 ## Structure
 
 ## Consequences
+1. How much Adaptation is Required.
+2. Pluggable Adapters -> A class is more usable when less classes use it.
+3. Usage of two way adapters to create Transparency.
