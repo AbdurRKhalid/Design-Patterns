@@ -19,3 +19,7 @@ Use the Adapter Design Pattern when
 * Object Adapter is required when 
     * Usage of Several Classes is Required.
     * Object Adapt interface of it's parent.
+
+## Structure
+
+## Consequences
