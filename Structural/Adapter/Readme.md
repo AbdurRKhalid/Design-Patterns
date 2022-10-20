@@ -6,3 +6,8 @@ Convert one interface to other that is expected by client, Adapter let's those c
 
 ## Also Known As
 Wrapper
+
+## Motivation
+Let's say that we have a drawing application and it has an interface called the 'Shape' now it can be used by other classes such as 'Circle' and 'Rectangle' but it has compatibility problems regarding the 'Text' class. So, now here comes the question of how we can make the 'Shape' class adaptable by the 'Text' class, so we can do that in the following two ways:
+1. Making Interface Implement and Inheriting to the Text Class.
+2. Composing 'Text' interface within a 'Text' and Implementing the 'TextShape' in terms of 'Text' class or interface.
