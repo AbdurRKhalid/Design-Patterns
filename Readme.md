@@ -23,3 +23,4 @@ Description of occurrance of a single problem again and again causing to design 
 |[Factory Method](./Creational/Factory%20Method/Readme.md)            |            |             |
 |[Builder](./Creational/Builder/Readme.md)            |            |             |
 |[Prototype](./Creational/Prototype/Readme.md)            |            |             |
+|[Singleton](./Creational/Singleton/Readme.md)            |            |             |
