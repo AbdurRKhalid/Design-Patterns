@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e3979f6-7418-400c-91f0-1d3bf55c5283" name="Changes" comment="Added the Implementation of the Adapter Class.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1e3979f6-7418-400c-91f0-1d3bf55c5283" name="Changes" comment="Added the Testing for the Adapter Design Pattern." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,13 +29,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666283211440</updated>
-      <workItem from="1666283212763" duration="2291000" />
+      <workItem from="1666283212763" duration="2998000" />
     </task>
     <task id="LOCAL-00001" summary="Added the Implementation of the RoundHole.">
       <created>1666285240999</created>
@@ -77,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666285784878</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added the Testing for the Adapter Design Pattern.">
+      <created>1666286033248</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666286033248</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +103,7 @@
     <MESSAGE value="Added the Implementation of the RoundPeg." />
     <MESSAGE value="Added the Implementation of the Square Peg Adaptee Class." />
     <MESSAGE value="Added the Implementation of the Adapter Class." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the Implementation of the Adapter Class." />
+    <MESSAGE value="Added the Testing for the Adapter Design Pattern." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the Testing for the Adapter Design Pattern." />
   </component>
 </project>
