@@ -20,7 +20,7 @@ Description of occurrance of a single problem again and again causing to design 
 | Creational | Structural | Behavioural |
 |------------|------------|-------------|
 |[Abstract Factory](./Creational/Abstract%20Factory/Readme.md)            |[Adapter](./Structural/Adapter/Readme.md)            |             |
-|[Factory Method](./Creational/Factory%20Method/Readme.md)            |            |             |
+|[Factory Method](./Creational/Factory%20Method/Readme.md)            |[Bridge](./Structural//Bridge/Readme.md)            |             |
 |[Builder](./Creational/Builder/Readme.md)            |            |             |
 |[Prototype](./Creational/Prototype/Readme.md)            |            |             |
 |[Singleton](./Creational/Singleton/Readme.md)            |            |             |
