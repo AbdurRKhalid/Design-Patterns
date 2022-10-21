@@ -17,6 +17,7 @@ Use Bridge Design Pattern when:
 3. Changes in the implementation of an abstraction should have no impact on client code.
 
 ## Structure
+![BridgeDesignPattern](./Bridge%20Design%20Pattern.png)
 
 ## Cosequences
 * Decoupling interface and implementation.
