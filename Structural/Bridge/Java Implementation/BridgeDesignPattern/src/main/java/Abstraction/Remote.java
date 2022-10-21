@@ -1,6 +1,6 @@
 package Abstraction;
 
-public interface BasicRemote {
+public interface Remote {
     void power();
 
     void volumeDown();
