@@ -5,8 +5,8 @@ public interface Device {
     void enable();
     void disable();
     int getVolume();
-    void setVolume();
+    void setVolume(int volume);
     int getChannel();
-    void setChannel();
+    void setChannel(int channel);
     void printStatus();
 }
