@@ -17,10 +17,10 @@ Description of occurrance of a single problem again and again causing to design 
 3. Solution: What is the solution of specific problem.
 4. Consequences: What will be the consequences in terms of space and time complexity etc.
 
-| Creational | Structural | Behavioural |
-|------------|------------|-------------|
-|[Abstract Factory](./Creational/Abstract%20Factory/Readme.md)            |[Adapter](./Structural/Adapter/Readme.md)            |             |
-|[Factory Method](./Creational/Factory%20Method/Readme.md)            |[Bridge](./Structural//Bridge/Readme.md)            |             |
-|[Builder](./Creational/Builder/Readme.md)            |            |             |
-|[Prototype](./Creational/Prototype/Readme.md)            |            |             |
-|[Singleton](./Creational/Singleton/Readme.md)            |            |             |
+| Creational                                                    | Structural                                | Behavioural |
+|---------------------------------------------------------------|-------------------------------------------|-------------|
+| [Abstract Factory](./Creational/Abstract%20Factory/Readme.md) | [Adapter](./Structural/Adapter/Readme.md) |             |
+| [Factory Method](./Creational/Factory%20Method/Readme.md)     | [Bridge](./Structural//Bridge/Readme.md)  |             |
+| [Builder](./Creational/Builder/Readme.md)                     |                                           |             |
+| [Prototype](./Creational/Prototype/Readme.md)                 |                                           |             |
+| [Singleton](./Creational/Singleton/Readme.md)                 |                                           |             |
