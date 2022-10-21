@@ -12,3 +12,5 @@ Use Bridge Design Pattern when:
 1. Avoding of Permanent binding between interface and its implementation is required.
 2. Both Abstraction and their implementation should be extensible by sub-classing.
 3. Changes in the implementation of an abstraction should have no impact on client code.
+
+## Structure
