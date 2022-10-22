@@ -12,3 +12,6 @@ In a normal drawing application or editor, we have simple components and those c
 Use Composite Design Pattern When:
 1. Part-Whole representation of hierarchies of objects required.
 2. Ignorance of Individual and composition of objects required.
+
+## Structure
+![CompositeDesignPattern](./Composite%20Design%20Pattern.png)
