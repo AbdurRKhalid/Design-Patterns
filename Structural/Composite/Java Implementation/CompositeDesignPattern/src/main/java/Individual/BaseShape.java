@@ -1,4 +1,4 @@
-package Composite;
+package Individual;
 
 import Component.Shape;
 
