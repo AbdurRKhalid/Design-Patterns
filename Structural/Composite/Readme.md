@@ -15,3 +15,8 @@ Use Composite Design Pattern When:
 
 ## Structure
 ![CompositeDesignPattern](./Composite%20Design%20Pattern.png)
+
+## Consequences
+* Makes easy to add new components.
+* Can be used to make design overly general.
+* Makes the client or test easy.
