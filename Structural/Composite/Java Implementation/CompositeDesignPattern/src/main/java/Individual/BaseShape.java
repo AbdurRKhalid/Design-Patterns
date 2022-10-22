@@ -10,7 +10,7 @@ public class BaseShape implements Shape {
     public Color color;
     private boolean selected = false;
 
-    BaseShape(int x, int y, Color color) {
+    public BaseShape(int x, int y, Color color) {
         this.x = x;
         this.y = y;
         this.color = color;
@@ -63,7 +63,7 @@ public class BaseShape implements Shape {
         return selected;
     }
 
-    void enableSelectionStyle(Graphics graphics) {
+    protected void enableSelectionStyle(Graphics graphics) {
         graphics.setColor(Color.LIGHT_GRAY);
 
         Graphics2D g2 = (Graphics2D) graphics;
@@ -74,7 +74,7 @@ public class BaseShape implements Shape {
                 2.0f, dash1, 0.0f));
     }
 
-    void disableSelectionStyle(Graphics graphics) {
+    protected void disableSelectionStyle(Graphics graphics) {
         graphics.setColor(color);
         Graphics2D g2 = (Graphics2D) graphics;
         g2.setStroke(new BasicStroke());
