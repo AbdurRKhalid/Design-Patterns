@@ -7,3 +7,5 @@ The Composite Design Pattern is of class *Structural* and having subclass of *Ob
 
 ## Motivation
 In a normal drawing application or editor, we have simple components and those components can be grouped together to form more complex components. Composite Design Pattern provides a simple aggregation implementation that can help to handle this regression.
+
+## Applicability
