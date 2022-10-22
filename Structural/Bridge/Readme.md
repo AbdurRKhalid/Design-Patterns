@@ -12,14 +12,14 @@ Let's say that there exists an interface 'Windows' which contains the different 
 
 ## Applicability
 Use Bridge Design Pattern when:
-1. Avoding of Permanent binding between interface and its implementation is required.
+1. Avoiding of Permanent binding between interface and its implementation is required.
 2. Both Abstraction and their implementation should be extensible by sub-classing.
 3. Changes in the implementation of an abstraction should have no impact on client code.
 
 ## Structure
 ![BridgeDesignPattern](./Bridge%20Design%20Pattern.png)
 
-## Cosequences
+## Consequences
 * Decoupling interface and implementation.
 * Improved Extensibility.
 * Hiding Implementation details from Client.
