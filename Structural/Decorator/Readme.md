@@ -13,7 +13,7 @@ Let's say that we have a Text Viewer and we want to add a Border, Horizontal and
 **Wrapper**
 
 ## Structure
-
+![DecoratorDesignPatter](./Decorator%20Design%20Pattern.png)
 ## Applicability
 Use Decorator Design Pattern when:
 1. Adding responsibilities to object transparently and dynamically without affecting other objects.
