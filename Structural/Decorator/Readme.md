@@ -19,3 +19,8 @@ Use Decorator Design Pattern when:
 1. Adding responsibilities to object transparently and dynamically without affecting other objects.
 2. For responsibilities that can be withdrawn.
 3. When extension of class is not possible.
+
+## Consequences
+* More flexible than static inheritance.
+* Avoids feature-laden classes high-up in Hierarchy.
+* A Decorator and its components are not identical.
