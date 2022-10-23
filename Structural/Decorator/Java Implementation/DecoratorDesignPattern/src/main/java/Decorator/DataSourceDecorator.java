@@ -5,7 +5,7 @@ import Component.DataSource;
 public class DataSourceDecorator implements DataSource {
     private DataSource wrappee;
 
-    DataSourceDecorator(DataSource source) {
+    protected DataSourceDecorator(DataSource source) {
         this.wrappee = source;
     }
 
