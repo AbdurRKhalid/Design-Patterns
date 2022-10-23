@@ -13,3 +13,9 @@ Let's say that we have a Text Viewer and we want to add a Border, Horizontal and
 **Wrapper**
 
 ## Structure
+
+## Applicability
+Use Decorator Design Pattern when:
+1. Adding responsibilities to object transparently and dynamically without affecting other objects.
+2. For responsibilities that can be withdrawn.
+3. When extension of class is not possible.
