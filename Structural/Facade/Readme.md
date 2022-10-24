@@ -16,3 +16,8 @@ Use Facade Design Pattern when:
 1. There is a need for a simple Interface to a complex subsystem, as subsystems can become complex by the passage of time.
 2. Decoupling of subsystems from its clients and other subsystems is required.
 3. If there exists layers in subsystems, use a Facade to define entry point to each subsystem.
+
+## Consequences
+* Shields client from subsystem components by limiting the number of objects.
+* It promotes the weak coupling between subsystems and clients.
+* It does not prevent client to use subsystem classes directly.
