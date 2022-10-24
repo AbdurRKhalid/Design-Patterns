@@ -28,4 +28,4 @@ Description of occurrance of a single problem again and again causing to design 
 | [Factory Method](./Creational/Factory%20Method/Readme.md)     | [Bridge](./Structural//Bridge/Readme.md)      |             |
 | [Builder](./Creational/Builder/Readme.md)                     | [Composite](./Structural/Composite/Readme.md) |             |
 | [Prototype](./Creational/Prototype/Readme.md)                 | [Decorator](./Structural/Decorator/Readme.md) |             |
-| [Singleton](./Creational/Singleton/Readme.md)                 |                                               |             |
+| [Singleton](./Creational/Singleton/Readme.md)                 | [Facade](./Structural/Facade/Readme.md)       |             |
