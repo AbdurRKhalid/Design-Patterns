@@ -9,6 +9,8 @@ Let's say we have a Document Editor, and in that document editor most common thi
 Flyweight Pattern describes how to share objects to allow their use of fine gains with any Prohibition costs.
 **Flyweight** is an object which is shared and that can be used in multiple contexts simultaneously.
 
+## Structure
+
 ## Applicability
 Use the Flyweight Design Pattern when following all conditions met:
 1. Application use large number of objects.
