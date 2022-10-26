@@ -18,3 +18,9 @@ Use the Flyweight Design Pattern when following all conditions met:
 3. Most objects start can be make extrinsic.
 4. Few shared objects can replace groups of objects after removing extrinsic state.
 5. Application does not depend on the object identity.
+
+## Consequences
+Flyweight Design Pattern Reduces the Storage Use by:
+* Reduction in Total Number of Instances.
+* Amount of Intrinsic State Per Object.
+* Whether state is intrinsic of extrinsic.
