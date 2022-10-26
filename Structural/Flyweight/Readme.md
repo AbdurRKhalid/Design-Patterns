@@ -10,7 +10,7 @@ Flyweight Pattern describes how to share objects to allow their use of fine gain
 **Flyweight** is an object which is shared and that can be used in multiple contexts simultaneously.
 
 ## Structure
-
+![FlyweightDesignPattern](./Flyweight%20Design%20Pattern.png)
 ## Applicability
 Use the Flyweight Design Pattern when following all conditions met:
 1. Application use large number of objects.
