@@ -9,11 +9,11 @@ This repository contains the basic information and the code implementation of th
 ## Why Design Patterns?
 
 1. Using a Design Pattern specific to any problem can improve the overall documentation and design of project.
-2. Using a Desing Pattern can help to build effective software with usability increased to many folds.
+2. Using a Design Pattern can help to build effective software with usability increased to many folds.
 
 ## What is Design Pattern?
 
-Description of occurrance of a single problem again and again causing to design similar solution again gave rise to construction of design pattern.
+Description of occurrence of a single problem again and again causing to design similar solution again gave rise to construction of design pattern.
 
 ## Components of Design Pattern
 
