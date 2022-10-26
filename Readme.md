@@ -30,3 +30,4 @@ Description of occurrance of a single problem again and again causing to design 
 | [Prototype](./Creational/Prototype/Readme.md)                 | [Decorator](./Structural/Decorator/Readme.md) |             |
 | [Singleton](./Creational/Singleton/Readme.md)                 | [Facade](./Structural/Facade/Readme.md)       |             |
 |                                                               | [Proxy](./Structural/Proxy/Readme.md)         |             |
+|                                                               | [Flyweight](./Structural/Flyweight/Readme.md) |             |
