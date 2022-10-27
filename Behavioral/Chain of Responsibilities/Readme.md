@@ -10,3 +10,8 @@ Let's say that we have a Graphics Designing tool and when curse hover any drawin
 
 ## Structure
 
+## Applicability
+Use Chain of Responsibility Design Pattern When:
+1. More than one object might handle the request.
+2. Issuing a request to one of several objects without specifying receiver explicitly.
+3. Set of objects that can handle a request should be specified dynamically.
