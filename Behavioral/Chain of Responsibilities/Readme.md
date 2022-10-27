@@ -1,0 +1,2 @@
+# Introduction
+The Chain of Responsibilities Design Pattern is of class *Behavioral* and having subclass of *Object Behavioral*. It provides the functionality to handle the request to more than one objects.
