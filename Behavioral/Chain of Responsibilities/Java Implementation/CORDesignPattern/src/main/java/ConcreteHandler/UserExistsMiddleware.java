@@ -1,6 +1,7 @@
 package ConcreteHandler;
 
 import Handler.Middleware;
+import Server.Server;
 
 public class UserExistsMiddleware extends Middleware {
     private Server server;
