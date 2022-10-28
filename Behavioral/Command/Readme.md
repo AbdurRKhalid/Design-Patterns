@@ -11,3 +11,6 @@ Encapsulation of request as an object so that client can be parameterized with d
 ## Motivation
 Sometimes it becomes necessary to issue requests to objects without knowing anything about operation being performed. The common example can be in a user interface that a Button has to send a request after being getting clicked, but handling of this request cannot be handled by the Button itself. It is difficult to determine who will handle the response.
 Command Pattern can help to handle this scenario by turning request to object itself. This object can be stored and passed around other objects as well.
+
+## Structure
+
