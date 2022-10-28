@@ -1,10 +1,3 @@
-package Invoker;
-
-import ConcreteCommand.CopyCommand;
-import ConcreteCommand.CutCommand;
-import ConcreteCommand.PasteCommand;
-import Receiver.CommandHistory;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;

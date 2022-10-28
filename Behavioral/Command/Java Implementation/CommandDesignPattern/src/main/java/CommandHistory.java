@@ -1,6 +1,4 @@
-package Receiver;
-
-import Command.Command;
+import Command;
 
 import java.util.Stack;
 

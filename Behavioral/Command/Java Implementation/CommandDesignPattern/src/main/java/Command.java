@@ -1,10 +1,8 @@
-package Command;
-
 public abstract class Command {
     public Editor editor;
     private String backup;
 
-    Command(Editor editor) {
+    protected Command(Editor editor) {
         this.editor = editor;
     }
 
