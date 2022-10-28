@@ -14,3 +14,9 @@ Command Pattern can help to handle this scenario by turning request to object it
 
 ## Structure
 
+## Applicability
+Use Command Design Pattern When:
+1. Callbacks is required in the Object Oriented World.
+2. Parametrization of object is required.
+3. Specification, Queue and execution of requests at different times is required.
+4. Support of undo functionality is required.
