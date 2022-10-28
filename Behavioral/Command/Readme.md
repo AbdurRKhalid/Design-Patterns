@@ -13,7 +13,7 @@ Sometimes it becomes necessary to issue requests to objects without knowing anyt
 Command Pattern can help to handle this scenario by turning request to object itself. This object can be stored and passed around other objects as well.
 
 ## Structure
-
+![CommandDesignPAttern](./Command%20Design%20Pattern.png)
 ## Applicability
 Use Command Design Pattern When:
 1. Callbacks is required in the Object Oriented World.
