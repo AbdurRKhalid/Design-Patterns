@@ -3,3 +3,6 @@ The Iterator Design Pattern is of class *Behavioral* and having subclass of *Obj
 
 ## Intent
 Provide a way o access elements of an aggregated object sequentially without looking at the underlying representation.
+
+## Also Known As
+**Cursor**
