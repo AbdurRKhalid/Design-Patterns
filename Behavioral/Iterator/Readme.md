@@ -12,6 +12,8 @@ Let's say that we have a list and we want to traverse that list so it is importa
 Here Iterator Pattern comes into play. The idea of this pattern is to take responsibility of access and traveling out of list object, and put it into Iterator object.
 Iterator defines an interface for accessing list's elements and and Iterator object is responsible for the keeping track of current element.
 
+## Structure
+
 ## Applicability
 When Iterator Design Pattern When:
 1. Access an Aggregate Object's elements without exploring internal representation.
