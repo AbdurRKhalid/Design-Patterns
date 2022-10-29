@@ -18,3 +18,7 @@ Iterator defines an interface for accessing list's elements and and Iterator obj
 When Iterator Design Pattern When:
 1. Access an Aggregate Object's elements without exploring internal representation.
 2. To Support multilevel traversals of aggregated objects.
+
+## Consequences
+* Support in variations of traversal.
+* More than one traversals can be aggregated.
