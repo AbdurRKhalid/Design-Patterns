@@ -33,3 +33,5 @@ The following Table Contains the Links to the Each Design Pattern Description Pa
 | [Singleton](./Creational/Singleton/Readme.md)                 | [Facade](./Structural/Facade/Readme.md)       |                                                             |
 |                                                               | [Proxy](./Structural/Proxy/Readme.md)         |                                                             |
 |                                                               | [Flyweight](./Structural/Flyweight/Readme.md) |                                                             |
+
+'*COR here refers to the Chain of Responsibility Design Pattern.'
