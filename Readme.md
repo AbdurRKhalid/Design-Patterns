@@ -29,7 +29,7 @@ The following Table Contains the Links to the Each Design Pattern Description Pa
 | [Abstract Factory](./Creational/Abstract%20Factory/Readme.md) | [Adapter](./Structural/Adapter/Readme.md)     | [COR](./Behavioral/Chain%20of%20Responsibilities/Readme.md) |
 | [Factory Method](./Creational/Factory%20Method/Readme.md)     | [Bridge](./Structural//Bridge/Readme.md)      | [Command](./Behavioral/Command/Readme.md)                   |
 | [Builder](./Creational/Builder/Readme.md)                     | [Composite](./Structural/Composite/Readme.md) | [Iterator](./Behavioral/Iterator/Readme.md)                 |
-| [Prototype](./Creational/Prototype/Readme.md)                 | [Decorator](./Structural/Decorator/Readme.md) | [Interpreter]                                               |
+| [Prototype](./Creational/Prototype/Readme.md)                 | [Decorator](./Structural/Decorator/Readme.md) | [Interpreter](./Behavioral/Interpreter/Readme.md)           |
 | [Singleton](./Creational/Singleton/Readme.md)                 | [Facade](./Structural/Facade/Readme.md)       |                                                             |
 |                                                               | [Proxy](./Structural/Proxy/Readme.md)         |                                                             |
 |                                                               | [Flyweight](./Structural/Flyweight/Readme.md) |                                                             |
