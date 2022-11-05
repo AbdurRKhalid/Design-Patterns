@@ -12,3 +12,9 @@ Use the Interpret Design Pattern when there is a language to interpret, and stat
 Interpreter Design Pattern Works best when:
 1. The grammar is simple, as for complex grammars, the class hierarchy for grammar becomes large and unmanageable.
 2. Efficieincy is not the critical aspect.
+
+## Consequences
+* It's easy to change and extend the grammar.
+* Implementation of grammar is easy too.
+* Complex grammar in this design pattern becomes hard to maintain.
+* Adding new ways to interpret expressions becomes easy.
