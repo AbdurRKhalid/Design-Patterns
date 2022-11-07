@@ -13,3 +13,10 @@ Use the Mediator Design Pattern when
 1. A Set of Objects Communicate in Well-Defined but complex ways.
 2. Reusing Object is difficult because it refers to and communicates with many other objects.
 3. A Behaviour that is distributed between several calsses should be customizable without a lot of subclassing.
+
+## Consequences
+* It Limits the Subclassing.
+* It Decouples Colleagues.
+* It simplifies object protocols.
+* It abstracts how objects cooperate.
+* It centralizes control.
