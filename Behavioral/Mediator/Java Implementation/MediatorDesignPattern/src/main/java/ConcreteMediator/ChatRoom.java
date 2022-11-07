@@ -1,8 +1,10 @@
 package ConcreteMediator;
 
+import Colleague.User;
 import Mediator.IChatRoom;
 
 import java.util.HashMap;
+import java.util.Map;
 
 public class ChatRoom implements IChatRoom {
     private Map<String, User> usersMap = new HashMap<>();
