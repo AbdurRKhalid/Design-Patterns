@@ -10,7 +10,7 @@ Let's say that you want to implement a redo functionality then it requires the s
 **Memento** is an object that stores the a snapshot of internal state of another object which is called the Mementor Originator. For the implementation of the undo option Memento will request the state of previous step and try to restore it.
 
 ## Structure
-
+![MementoDesignPatter](./Memo%20Design%20Pattern.png)
 ## Applicability
 Use Memento Design Pattern When:
 1. A Snapshot of an object's state must be saved so that it can be restored.
