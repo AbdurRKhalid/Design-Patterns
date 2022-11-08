@@ -31,7 +31,7 @@ The following Table Contains the Links to the Each Design Pattern Description Pa
 | [Builder](./Creational/Builder/Readme.md)                     | [Composite](./Structural/Composite/Readme.md) | [Iterator](./Behavioral/Iterator/Readme.md)                 |
 | [Prototype](./Creational/Prototype/Readme.md)                 | [Decorator](./Structural/Decorator/Readme.md) | [Interpreter](./Behavioral/Interpreter/Readme.md)           |
 | [Singleton](./Creational/Singleton/Readme.md)                 | [Facade](./Structural/Facade/Readme.md)       | [Mediator](./Behavioral//Mediator/Readme.md)                |
-|                                                               | [Proxy](./Structural/Proxy/Readme.md)         |                                                             |
+|                                                               | [Proxy](./Structural/Proxy/Readme.md)         | [Memento](./Behavioral/Memento/Readme.md)                   |
 |                                                               | [Flyweight](./Structural/Flyweight/Readme.md) |                                                             |
 
 '\*COR here refers to the Chain of Responsibility Design Pattern.'
