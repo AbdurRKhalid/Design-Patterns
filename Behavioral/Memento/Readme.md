@@ -15,3 +15,10 @@ Let's say that you want to implement a redo functionality then it requires the s
 Use Memento Design Pattern When:
 1. A Snapshot of an object's state must be saved so that it can be restored.
 2. A Direct Interface to Obtaining the state would expose implementation details and break encapsulation principle.
+
+## Consequences
+* Preserving the Encapsulation Boundries.
+* It simplifies Originator.
+* Using Mementos Might Be Expensive in Behaviour.
+* Defining Narrow and Wide Interfaces.
+* Hidden Costs in Caring for Memento.
