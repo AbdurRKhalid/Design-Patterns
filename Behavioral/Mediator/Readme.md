@@ -1,6 +1,6 @@
 # Introduction
 
-The Interpreter Design Pattern is of class _Behavioral_ and having subclass of _Object Behavioral_. It promotes the loose coupling of the objects so that behaviour can become independent.
+The Mediator Design Pattern is of class _Behavioral_ and having subclass of _Object Behavioral_. It promotes the loose coupling of the objects so that behaviour can become independent.
 
 ## Motivation
 
