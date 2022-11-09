@@ -1,2 +1,5 @@
 # Introduction
 The Observer Design Pattern is of class _Behavioral_ and having subclass of _Object Behavioral_. It provides an effective functionality for one to many relationship between object to automatically upadte if one object changes.
+
+## Also Known As
+**Dependents** and **Publish-Subscribe**
