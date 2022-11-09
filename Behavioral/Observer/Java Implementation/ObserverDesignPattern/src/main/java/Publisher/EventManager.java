@@ -2,6 +2,7 @@ package Publisher;
 
 import java.io.File;
 import java.util.*;
+import Observer.EventListener;
 
 public class EventManager {
     Map<String, List<EventListener>> listeners = new HashMap<>();
