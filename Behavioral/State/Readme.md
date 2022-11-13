@@ -13,3 +13,8 @@ Let's say that we have an implementation of the TCP Class, and the Object of TCP
 Use State Design Pattern When:
 * One Objects behavior depends on its state and it is requirement that the behavior will change on runtime.
 * Operations have large, Multipart conditions, that depends upon the object's state.
+
+## Consequences
+1. It localize the state specific behavior and partations behavior for different states.
+2. It makes the transitions of state explicit.
+3. State Objects can be shared.
