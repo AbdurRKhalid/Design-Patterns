@@ -14,3 +14,8 @@ Use Observer Design Pattern when:
 1. When an abstraction has two aspects, one dependent is on other.
 2. When change to one object requires change in others too, and there is not a way to know how many objects will get changed.
 3. When an object has to notify others without making any assumptions.
+
+## Consequences
+* Abstract Coupling Between Subject and Observer.
+* Support for Broadcast Communication.
+* Unexpected updates are Possible.
