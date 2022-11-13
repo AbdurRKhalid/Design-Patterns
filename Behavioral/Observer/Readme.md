@@ -8,7 +8,7 @@ The Observer Design Pattern is of class _Behavioral_ and having subclass of _Obj
 Let's say that we have an application that reports some basic numbers to the dashboard, and those numbers came from different components of the application. Now, here is a very interesting problem, let's say that one interface changes the one number, how we can identify the other classes that something has been changed in once interface so that it can get the most updated value. Here, comes the use of the Observer design pattern. We have **Subject** and **Observer** in this design pattern, where subject publishes the update and the **Subject** notifies the other objects to update their current values.
 
 ## Structure
-
+![ObserverDesignPattern](./Observer%20Design%20Pattern.png)
 ## Applicability
 Use Observer Design Pattern when:
 1. When an abstraction has two aspects, one dependent is on other.
