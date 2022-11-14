@@ -15,3 +15,8 @@ Use Strategy Design Pattern when:
 2. Different Variants of an Algorithm is required.
 3. An Algorithm uses data that client should not known about.
 4. A Class defines many behaviors, and these appear as multiple conditional statements in its operations.
+
+## Consequences
+* Implementation of Families of Related Algorithms can become easy.
+* It is a better alternative to subclassing.
+* Strategy Design Pattern eliminates the complex conditional statements.
