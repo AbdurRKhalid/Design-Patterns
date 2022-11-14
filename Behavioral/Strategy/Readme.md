@@ -8,7 +8,7 @@ The Strategy Design Pattern is of class _Behavioral_ and having subclass of _Obj
 Let's say that we have an implementation of the String Building and different types of strings have different kind of building. Now let's say that we have to implement the line breaking algorithm. Now, it becomes very difficult to hard wiring implementation of the line breaking for different kind of String Building methods, the simple way to implement this is through Strategy Design Pattern. In this pattern, a class is defined that encapsulates different line breaking algorithms.
 
 ## Structure
-
+![StrategyDesignPattern](./Strategy%20Design%20Pattern.png)
 ## Applicability
 Use Strategy Design Pattern when:
 1. Many Related Classes Differ in only their Behavior. Strategy provides a way to configure a class with one of many behaviors.
