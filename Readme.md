@@ -34,5 +34,6 @@ The following Table Contains the Links to the Each Design Pattern Description Pa
 |                                                               | [Proxy](./Structural/Proxy/Readme.md)         | [Memento](./Behavioral/Memento/Readme.md)                   |
 |                                                               | [Flyweight](./Structural/Flyweight/Readme.md) | [Observer](./Behavioral/Observer/Readme.md)                 |
 |                                                               |                                               | [State](./Behavioral/State/Readme.md)                       |
+|                                                               |                                               | [Strategy](./Behavioral/Strategy/Readme.md)                 |
 
 '\*COR here refers to the Chain of Responsibility Design Pattern.'
