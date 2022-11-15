@@ -1,0 +1,2 @@
+# Introduction
+The Template Method Design Pattern is of class _Behavioral_ and having subclass of _Class Behavioral_. Provides the functionality to change some steps of the algorithms in the subclassing, making the implementation of the a certain algorithm flexible in terms of the subclassing.
