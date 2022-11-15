@@ -11,3 +11,6 @@ Use Template Method Design Pattern When:
 1. To implement the invariant parts of an algorithm once and leave it up to subclasses to implement the behavior that can vary.
 2. when common behavior among subclasses should be factored and localized in a common class to avoid code duplication.
 3. To Control Subclasses extensions.
+
+## Consequences
+* Provides the Inverted Control
