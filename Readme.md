@@ -36,5 +36,6 @@ The following Table Contains the Links to the Each Design Pattern Description Pa
 |                                                               |                                               | [State](./Behavioral/State/Readme.md)                       |
 |                                                               |                                               | [Strategy](./Behavioral/Strategy/Readme.md)                 |
 |                                                               |                                               | [Template Method](./Behavioral/Template%20Method/Readme.md) |
+|                                                               |                                               | [Visitor](./Behavioral/Visitor/Readme.md)                   |
 
 '\*COR here refers to the Chain of Responsibility Design Pattern.'
