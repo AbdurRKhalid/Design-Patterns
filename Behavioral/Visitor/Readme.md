@@ -11,3 +11,11 @@ Use Visitor Design Pattern When:
 1. The classes that define the structure of the object rarely change, but there is a need to define a new operation over the structure.
 2. Many distinct and unrelated options need to be performed on objects in an object structure, and you want to avoid "polluting" their classes with these operations.
 3. An Object structure contains many classes of objects with differing interfaces, and you want to perform operations on these objects that depend on their concrete classes.
+
+## Conseqeunces
+* Visitor makes adding new operations easy.
+* A Visitor gathers related operations and separates unrelated ones.
+* Addition of new ConcreteElement classes is hard.
+* Visiting across class Hierarchies easy.
+* Possible Breaking of Encapsulation.
+* Provides the Functionality to Accumalte State.
